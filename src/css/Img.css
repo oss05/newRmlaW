@@ -1,0 +1,27 @@
+.img{
+    /* border: solid 1px red; */
+    width: 79%;
+    /* height: 600px; */
+    padding: 62px 0;
+    z-index: 0;
+    max-width: 80%;
+    margin: 0 auto;
+    margin-bottom: 2em;
+}
+
+.homeImg{
+    /* border: solid 1px red */
+    /* height: 300px; */
+    object-fit: contain;
+}
+
+.imgContainer{
+    /* border: solid 1px blue; */
+    /* display: flex; */
+    /* justify-content: flex-end; */
+    z-index: 0;
+}
+
+.imgContainer > a {
+    z-index: 0;
+}

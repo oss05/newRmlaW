@@ -1,0 +1,30 @@
+.text{
+    /* border: solid 1px blue; */
+    width: 75%;
+    height: auto;
+}
+
+.textContent{
+
+    /* border: solid 1px #ff6f00; */
+    height: auto;
+    padding: 10px 0 10px 30px;
+    align-items: flex-start;
+    padding-top: 2em;;
+}
+
+@media only screen and (max-width: 580px) {
+    .text{
+        /* border: solid 1px blue; */
+        width: 100%;
+        padding: 0 2em;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .text{
+        /* border: solid 1px blue; */
+        width: 100%;
+        padding: 0 2em;
+    } 
+}
