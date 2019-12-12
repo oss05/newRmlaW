@@ -17,49 +17,49 @@ class Img extends Component {
             <div className="img d-block d-lg-none">
                 <div className="imgContainer">
                     <ImgCont
-                        linkHomeImg="telecomunicaciones"
+                        linkHomeImg="/telecomunicaciones"
                         homeImage={TelecomunicacionesImg}
                         altHomeImage="Imagen Telecomunicaciones"
                         imgWidth={"100%"}
                     />
                     <ImgCont
-                        linkHomeImg="derecho-corporativo"
+                        linkHomeImg="/derecho-corporativo"
                         homeImage={DerechoImg}
                         altHomeImage="Imagen Derecho"
                         imgWidth={"100%"}
                     />
                     <ImgCont
-                        linkHomeImg="creditos-finanzas"
+                        linkHomeImg="/creditos-finanzas"
                         homeImage={FinanciamientoImg}
                         altHomeImage="Imagen Financiamiento"
                         imgWidth={"100%"}
                     />
                     <ImgCont
-                        linkHomeImg="radiodifusion"
+                        linkHomeImg="/radiodifusion"
                         homeImage={RadioImg}
                         altHomeImage="Imagen Radio"
                         imgWidth={"100%"}
                     />
                     <ImgCont
-                        linkHomeImg="energia"
+                        linkHomeImg="/energia"
                         homeImage={EnergiaImg}
                         altHomeImage="Imagen Energia"
                         imgWidth={"100%"}
                     />
                     <ImgCont
-                        linkHomeImg="competencia-economica"
+                        linkHomeImg="/competencia-economica"
                         homeImage={CompetenciaImg}
                         altHomeImage="Imagen Competencia"
                         imgWidth={"100%"}
                     />
                     <ImgCont
-                        linkHomeImg="asesoria-legislativa"
+                        linkHomeImg="/asesoria-legislativa"
                         homeImage={AsesoriaImg}
                         altHomeImage="Imagen Asesoria"
                         imgWidth={"100%"}
                     />
                     <ImgCont
-                        linkHomeImg="litigio"
+                        linkHomeImg="/litigio"
                         homeImage={LitigioImg}
                         altHomeImage="Imagen Litigio"
                         imgWidth={"100%"}
