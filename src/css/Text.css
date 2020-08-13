@@ -1,7 +1,8 @@
 .text{
     /* border: solid 1px blue; */
-    width: 75%;
+    width: 100%;
     height: auto;
+    padding-right: 3em;
 }
 
 .textContent{

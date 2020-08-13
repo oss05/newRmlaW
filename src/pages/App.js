@@ -33,7 +33,7 @@ import '../css/App.css';
 library.add(fas)
 
 function initializeReactGA() {
-  ReactGA.initialize('UA-147143628-1');
+  ReactGA.initialize('UA-158977742-1');
   ReactGA.pageview('/');
 }
 
@@ -90,9 +90,9 @@ class App extends Component {
         <Route path="/competencia-economica" component={() => <CompetenciaEconomica data={this.state.data} />} />
         <Route path="/asesoria-legislativa" component={() => <AsesoriaLegislativa data={this.state.data} />} />
         <Route path="/litigio" component={() => <Litigio data={this.state.data} />} />
-        <Route path="/bolsadetrabajo" component={() => <BolsaTrabajo data={this.state.data} />} />
+        <Route path="/contacto" component={() => <BolsaTrabajo data={this.state.data} />} />
         <Route path="/publicaciones" component={() => <Publicaciones data={this.state.data} />} />
-        <Route path="/contacto" component={() => <Contacto data={this.state.data} />} />
+        {/* <Route path="/contacto" component={() => <Contacto data={this.state.data} />} /> */}
         <Route path="/ivan" component={() => <Ivan data={this.state.data} />} />
         <Route path="/eli" component={() => <Eli data={this.state.data} />} />
         <Route path="/erika" component={() => <Erika data={this.state.data} />} />

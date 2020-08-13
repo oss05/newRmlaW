@@ -11,7 +11,7 @@ const QuienesSomos = props => {
         <div className="mainContentAll">
             <section className="downSection">
                 <div className="areaImg">
-                    <video src={videoCreditos} autoPlay loop></video>
+                    <video src={videoCreditos}  preload="auto" autoPlay muted loop type="video/mp4"></video>
                 </div>
                 <div className="textContent">
                     <Title

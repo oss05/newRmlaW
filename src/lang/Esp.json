@@ -63,7 +63,7 @@
         "bolsaDeTrabajo":{
             "key": "",
             "value": "",
-            "content": "Bolsa de Trabajo"
+            "content": "Contacto"
         },
         "publicaciones":{
             "key": "",
@@ -105,7 +105,7 @@
             ,
             "erika": "Cuenta con nueve años de experiencia en el sector telecomunicaciones y radiodifusión, derecho civil, administrativo, inmobiliario, litigio civil y administrativo.Se ha desempeñado como asesora jurídica de empresas nacionales y extranjeras enfocadas a la prestación de servicios de radiodifusión y telecomunicaciones, y como analista jurídica de sectores regulados.Ha sido consultora jurídica de diversas empresas nacionales para la instalación, desarrollo y despliegue de infraestructura propia y ha participado en procesos de licitación relacionados con los sectores de radiodifusión.Ha participado en la regularización administrativa e inmobiliaria de múltiples empresas nacionales, asimismo, se ha desempeñado como asesora jurídica de establecimientos mercantiles dedicados al entretenimiento (centros de apuestas, juegos y sorteos).Idiomas: español (lengua madre), inglés (avanzado). ",
             "ruben": "Licenciado en Derecho por la Universidad de Xalapa (UX), Maestro en Derecho Internacional, Comercio Exterior y Relaciones Internacionales (LLM) por el Instituto Superior de Derecho y Economía (ISDE) en Madrid, España y Diplomado en Derecho Corporativo por el ITAM.Rubén trabaja en las áreas de derecho corporativo, marcas, inmobiliario, contratos, telecomunicaciones y fintec  y con anterioridad a su ingreso a RM&A trabajó como abogado en la firma de Benow Partners en Madrid España, la firma de bienes raíces Jones Lang Lasalle (JLL) así como abogado interno de una compañía dedicada a la producción de bienes maderables que cotiza en la Bolsa Mexicana de Valores y cuenta con plantaciones en México y el extranjero.Idiomas: Español e Inglés.tate and plantations in Mexico and Latin America.Languages: Spanish and English.",
-            "denia": "Denia es estudiante de cuarto año de la Carrera de derecho en la UNAM y trabaja en las áreas de telecomunicaciones, marcas, derecho corporativo y mercantil.Idiomas: inglés y español."
+            "denia": "Actualmente cursa el noveno semestre de la Licenciatura en Derecho en la Universidad Nacional Autónoma de México. Realizó su servicio social en la secretaría de planeación y evaluación de la División de Universidad Abierta de la Facultad de Derecho por parte de la Universidad Nacional Autónoma de México. Inició su práctica laboral como pasante jurídico en una firma contable ubicada en la Ciudad de México, posterior a eso, continuó con su práctica profesional en una firma de abogados en asuntos de litigio inmobiliario, mercantil y civil. Su práctica profesional busca ser enfocada al sector de Telecomunicaciones, Competencia Económica y Corporativo. Idiomas: Español e Inglés."
         },
         "areasDePractica":{
             "key": "",
@@ -180,15 +180,16 @@
         "bolsaDeTrabajo":{
             "key": "",
             "value": "",
-            "title": "BOLSA DE TRABAJO",
-            "subtitle": "ENVÍANOS TU CURRICULUM",
+            "title": "CONTACTO",
+            "subtitle": "CONTÁCTANOS",
             "p1": "Si requieres más información, llena este formulario. Recibirás una respuesta a la brevedad.",
             "p2": "Al enviar este formulario, estás aceptando nuestra política de privacidad."
         },
         "publicaciones":{
             "key": "",
             "value": "",
-            "content": "Publicaciones"
+            "content": "PUBLICACIONES",
+            "chambers": "Nuestra firma ha publicado el capítulo mexicano de Telecomunicaciones, Medios y Tecnología de la Guía de Chambers & Partners por los últimos cinco años."
         },
         "contacto":{
             "key": "",

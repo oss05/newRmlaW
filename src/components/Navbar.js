@@ -90,13 +90,6 @@ export default class CustomNavbar extends React.Component {
               </NavItem>
               <NavItem className="navItem ml-4">
                 <NavLink>
-                  <Link onClick={this.handleClick} className="navCont" to="/bolsadetrabajo">
-                    {this.props.data.navbar.bolsaDeTrabajo.content}
-                  </Link>
-                </NavLink>
-              </NavItem>
-              <NavItem className="navItem ml-4">
-                <NavLink>
                   <Link onClick={this.handleClick} className="navCont" to="/publicaciones">
                     {this.props.data.navbar.publicaciones.content}
                   </Link>
@@ -105,7 +98,7 @@ export default class CustomNavbar extends React.Component {
               <NavItem className="navItem ml-4">
                 <NavLink>
                   <Link onClick={this.handleClick} className="navCont" to="/contacto">
-                    {this.props.data.navbar.contacto.content}
+                    {this.props.data.navbar.bolsaDeTrabajo.content}
                   </Link>
                 </NavLink>
               </NavItem>

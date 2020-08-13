@@ -1,47 +1,47 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import arrow from '../assets/drop-down-arrow.svg';
-import graph from '../assets/graphs/CinemaGrapAreasPractica.mp4';
+import graph from '../assets/graphs/CinemaGrapAreasPractica new (1).mp4';
 import '../css/MainContent.css';
 
-const AreasPractica = () => {
+const AreasPractica = (props) => {
     return (
         <div>
             <div className="practiceAreasHero">
-                <video src={graph} autoPlay loop className="cinemaGraph"></video>
+                <video preload="auto" src={graph} autoPlay mute loop type="video/mp4" className="cinemaGraph"></video> 
             </div>
             <div className="container my-0 my-lg-5">
                 <div className="row justify-content-md-around">
                     <section className="practiceArea col-12 col-md-5 mt-5">
-                        <Link to="/telecomunicaciones">TELECOMUNICACIONES & IT</Link>
+    <Link to="/telecomunicaciones">{props.data.contenido.telecom.title}</Link>
                         <img src={arrow} alt="arrow"/>
                     </section>
                     <section className="practiceArea col-12 col-md-5 mt-5">
-                        <Link to="/derecho-corporativo">DERECHO COORPORATIVO Y TRANSACCIONAL</Link>
+                        <Link to="/derecho-corporativo">{props.data.contenido.transaccional.title}</Link>
                         <img src={arrow} alt="arrow"/>
                     </section>
                     <section className="practiceArea col-12 col-md-5 mt-5">
-                        <Link to="/competencia-economica">COMPETENCIA ECONOMICA</Link>
+                        <Link to="/competencia-economica">{props.data.contenido.competenciaEconomica.title}</Link>
                         <img src={arrow} alt="arrow"/>
                     </section>
                     <section className="practiceArea col-12 col-md-5 mt-5">
-                        <Link to="/litigio">LITIGIO</Link>
+                        <Link to="/creditos-finanzas">{props.data.contenido.creditos.title}</Link>
                         <img src={arrow} alt="arrow"/>
                     </section>
                     <section className="practiceArea col-12 col-md-5 mt-5">
-                        <Link to="/creditos-finanzas">CREDITOS Y FINANCIAMIENTO</Link>
+                        <Link to="/radiodifusion">{props.data.contenido.radio.title}</Link>
                         <img src={arrow} alt="arrow"/>
                     </section>
                     <section className="practiceArea col-12 col-md-5 mt-5">
-                        <Link to="/radiodifusion">RADIODIFUSION</Link>
-                        <img src={arrow} alt="arrow"/>
-                    </section>
-                    <section className="practiceArea col-12 col-md-5 mt-5">
-                        <Link to="/energia">ENERGÍA</Link>
+                        <Link to="/energia">{props.data.contenido.energia.title}</Link>
                         <img src={arrow} alt="arrow"/>
                     </section>
                     <section className="practiceArea col-12 col-md-5 my-5">
-                        <Link to="/asesoria-legislativa">ASESORIA EN MATERIA LEGISLATIVA, REGULATORIA Y OPINIONES</Link>
+                        <Link to="/asesoria-legislativa">{props.data.contenido.asesoria.title}</Link>
+                        <img src={arrow} alt="arrow"/>
+                    </section>
+                    <section className="practiceArea col-12 col-md-5 mt-5">
+                        <Link to="/litigio">{props.data.contenido.litigio.title}</Link>
                         <img src={arrow} alt="arrow"/>
                     </section>
                 </div>

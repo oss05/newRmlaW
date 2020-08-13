@@ -63,7 +63,7 @@
         "bolsaDeTrabajo":{
             "key": "",
             "value": "",
-            "content": "Careers"
+            "content": "Contact Us"
         },
         "publicaciones":{
             "key": "",
@@ -94,12 +94,12 @@
         "abogados":{
             "key": "",
             "value": "",
-            "title": "ABOGADOS",
+            "title": "ATTORNEYS",
             "rol": "Partner",
             "rol2": "Associate",
             "rol3": "Associate",
             "rol4": "Law Clerk",
-            "sintesis": "Síntesis Curricular",
+            "sintesis": "Bio",
             "ivan": "Iván Ruiz Moreno (partner). J.D. Instituto Tecnológico Autónomo de México (ITAM), Master’s in Law (LLM), Duke University, Telecommunications diploma (ITAM), diplomas in oil, gas and electricity from the RMMLF and EUCI.He is founding partner at Ruiz Moreno y Asociados and has more than twenty years of experience in the areas of regulated industries, corporate and commercial law.Throughout his career he has worked as public officer of the former Mexican Federal Telecommunications Commission, general counsel for concessionaires and resellers of telecommunications services, member of COFETEL’s Consultation Council, parliamentary counsel and outside legal counsel/board member for domestic and international companies.Throughout the last twelve years in areas such as telecommunications, broadcast, corporate law, contracts, anti-trust and the electric sector.Mr. Ruiz is currently an independent board member at CFE Generación II, one of the recently incorporated subsidiaries of Mexico’s government owned power utility CFE.Mr. Ruiz is also a board member of Mexico’s Telecommunications Law Institute (IDET) of which he was president, while he is also a member of The Federal Communications Bar Association, the Association of International Petroleum Negotiators and has written different articles and participated in television, radio interviews and conferences for matters related to the telecommunications sector.His practice has been recognized by several specialized publications in the telecommunications sector including Leaders Guide, the Mexican newspaper Reforma  and Chambers & Partners for which he published its Telecommunications Media and Technology Chapter for Mexico in the year 2016.Languages: Spanish, English (at native speaker level), intermediate Mandarin and French.",
             "eli": "Eli Manuel Ramírez (associate). Eli is a senior associate who has a Master’s degree in information and communication technologies law from the Maestría en Derecho de las Tecnologías de la Información y Comunicación (MDTIC) and a JD from UNAM in Mexico City. Prior to joining RM&A, he was part of Nextel Mexico’s regulatory team, and the regulatory and compliance officer for a public Mexican telecommunications carrier. Eli provides advice to clients in the telecoms, broadcast and technology sectors in areas such as regulation, compliance, privacy law, antitrust and commercial law in general. Languages: Spanish and English."
             ,
@@ -115,16 +115,15 @@
         "telecom":{
             "key": "",
             "value": "",
-            "title": "TELECOMUNICATIONS",
+            "title": "TELECOMMUNICATIONS",
             "p1": "Our telecommunications, broadcast and IT services are position among the best and most complete in the country, since we provide legal services from a legal, administrative, corporate and litigation perspective.",
             "p2":"We have participated in all spectrum auctions in Mexico, whether for microwave, fixed or wireless services and our experience included the representation of our clients in a wide variety of services ranging from payphones to satellite services.",
             "p3":"Within the telecommunications, audiovisual and broadcast sectors we attend to clients in the regulatory, corporate, licensing, transactional, anti-trust and litigation areas."
-            
         },
         "creditos":{
             "key": "",
             "value": "",
-            "title": "CREDIT AND FINANCING",
+            "title": "LOANS AND FINANCING",
             "p1": "We represent clients in the negotiation and entering of domestic and cross border credit agreements, restructurings and financings as well as the granting and registration of corporate, real estate and pledge  guaranties as well as the structuring of trusts and SPVs. Our firm has represented different telecommunications companies in the negotiation, structuring and entering of multi-million cross border financings for working capital and equipment."
         },
         "radio":{
@@ -166,21 +165,22 @@
         "litigio":{
             "key": "",
             "value": "",
-            "title": " ADMINISTRATIVE, FISCAL AND CONSTITUTIONAL LITIGATION",
+            "title": " ADMINISTRATIVE AND CONSTITUTIONAL LITIGATION",
             "p1": "Our law firm represents clients in day to day regulatory matters such as compliance, attending and responding to the Mexican regulator’s inspections and requests, appealing the regulator’s fines, filing and responding to interconnection disputes, public bids, complaints, meetings with IFT or SCT officers, registration filings, negotiation and drafting of agreements, negotiations before CFE for the use of pole, representation before work groups or committees organized by the Mexican Regulator “IFT”, Mexico’s Ministry of Communications and Transports, the Mexican President’s Office or Mexico’s Congress. We also represent clients in regulatory and corporate matters related to mergers and acquisitions within the telecommunications, broadcast and amendment to their services licenses. Within our activities in the Mexican telecommunications sector we represent clients in the areas of fixed and mobile satellite services, fixed and mobile telephony, fixed and wireless broadband, cable TV, MVNOs, transport networks, resellers and value added service providers, public bids for the provision of telecommunications services, infrastructure purchase, use or exchange agreements, sharing of towers and ducts, mergers and acquisitions, interconnection requests and disputes, applications for federal, state or local concessions, permits or authorizations, compliance and representation before sector organizations and authorities, among other matters."
         },
         "bolsaDeTrabajo":{
             "key": "",
             "value": "",
-            "title": "CAREERS",
-            "subtitle": "ENVÍANOS TU CURRICULUM",
+            "title": "CONTACT US",
+            "subtitle": "CONTACT US",
             "p1": "Si requieres más información, llena este formulario. Recibirás una respuesta a la brevedad.",
             "p2": "Al enviar este formulario, estás aceptando nuestra política de privacidad."
         },
         "publicaciones":{
             "key": "",
             "value": "",
-            "content": "Publicaciones"
+            "content": "PUBLICATIONS",
+            "chambers": "Our law firm has published the Telecommunications, Media and Technology Mexican chapter for Chambers & Parters TMT Guide throughout the last five years."
         },
         "contacto":{
             "key": "",
@@ -197,7 +197,7 @@
         "privacy": {
             "key": "",
             "value": "",
-            "content": "Privacy Advice"
+            "content": "Privacy Notice"
         }    
     }
 }

@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Abogado from '../components/Abogado';
 import '../css/MainContent.css';
-import abogadoHero from '../assets/Background.png'
+import abogadoHero from '../assets/Abogados logo.png'
 
 const Abogados = props => {
 

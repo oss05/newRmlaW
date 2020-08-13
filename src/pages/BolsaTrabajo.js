@@ -23,12 +23,6 @@ const Abogados = props => {
                         <p className="email">
                             <input name="email" type="text" className="validate[required,custom[email]] feedback-input" id="email" placeholder="Email" />
                         </p>
-                        <p className="email">
-                            <input name="phone" type="phone" className="validate[required,custom[email]] feedback-input" placeholder="Phone" />
-                        </p>
-                        <p className="email">
-                            <input name="subject" type="text" className="validate[required,custom[email]] feedback-input" placeholder="Subject" />
-                        </p>
                         <p className="textForm">
                             <textarea name="text" className="validate[required,length[6,300]] feedback-input" id="comment" placeholder="Message" defaultValue={""} />
                         </p>
@@ -36,6 +30,7 @@ const Abogados = props => {
                             <input type="submit" defaultValue="SEND" id="button-blue" />
                             <div className="ease" />
                         </div>
+                        <a href="mailto:contacto@rmlaw.com.mx?subject=CV%adjunto%20careers" style={{color: "#fff"}}>o envia tu CV</a>
                     </form>
                 </div>
             </div>

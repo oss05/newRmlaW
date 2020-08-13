@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import AreaImg from '../components/AreaImg';
 import Title from '../components/Title';
 import Text from '../components/Text';
-import videoDerecho from '../assets/graphs/cinemaGraphDerechoCorporativo.mp4';
+import videoDerecho from '../assets/graphs/cinemaGraphDerechoCorporativonew (1).mp4';
 import '../css/MainContent.css';
 
 const Telecomunicaciones = props => {
@@ -10,7 +10,7 @@ const Telecomunicaciones = props => {
         <div className="mainContentAll">
             <section className="downSection">
                 <div className="areaImg">
-                    <video src={videoDerecho} autoPlay loop></video>
+                    <video src={videoDerecho}  preload="auto" autoPlay muted loop type="video/mp4"></video>
                 </div>
                 <div className="textContent">
                     <Title
