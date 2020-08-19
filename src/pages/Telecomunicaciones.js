@@ -29,6 +29,25 @@ const Telecomunicaciones = props => {
                         p9={props.data.contenido.telecom.p9}
                         p10={props.data.contenido.telecom.p10}
                         p11={props.data.contenido.telecom.p11}
+                        p12={props.data.contenido.telecom.p12}
+                        p13={props.data.contenido.telecom.p13}
+                        p14={props.data.contenido.telecom.p14}
+                        p15={props.data.contenido.telecom.p15}
+                        p16={props.data.contenido.telecom.p16}
+                        p17={props.data.contenido.telecom.p17}
+                        p18={props.data.contenido.telecom.p18}
+                        p19={props.data.contenido.telecom.p19}
+                        p20={props.data.contenido.telecom.p20}
+                        p21={props.data.contenido.telecom.p21}
+                        p22={props.data.contenido.telecom.p22}
+                        p23={props.data.contenido.telecom.p23}
+                        p24={props.data.contenido.telecom.p24}
+                        p25={props.data.contenido.telecom.p25}
+                        p26={props.data.contenido.telecom.p26}
+                        p27={props.data.contenido.telecom.p27}
+                        p28={props.data.contenido.telecom.p28}
+                        p29={props.data.contenido.telecom.p29}
+                        p30={props.data.contenido.telecom.p30}
                     />
                 </div>
             </section>

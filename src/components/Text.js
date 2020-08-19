@@ -15,7 +15,26 @@ const Text = props => {
                 {props.p8} <br  style={{display: props.display}}/> <br  style={{display: props.display}}/>
                 {props.p9} <br  style={{display: props.display}}/> <br  style={{display: props.display}}/>
                 {props.p10} <br  style={{display: props.display}}/> <br  style={{display: props.display}}/>
-                {props.p11}
+                {props.p11} <br  style={{display: props.display}}/> <br  style={{display: props.display}}/>
+                {props.p12} <br  style={{display: props.display}}/> <br  style={{display: props.display}}/>
+                {props.p13} <br  style={{display: props.display}}/> <br  style={{display: props.display}}/>
+                {props.p14} <br  style={{display: props.display}}/> <br  style={{display: props.display}}/>
+                {props.p15} <br  style={{display: props.display}}/> <br  style={{display: props.display}}/>
+                {props.p16} <br  style={{display: props.display}}/> <br  style={{display: props.display}}/>
+                {props.p17} <br  style={{display: props.display}}/> <br  style={{display: props.display}}/>
+                {props.p18} <br  style={{display: props.display}}/> <br  style={{display: props.display}}/>
+                {props.p19} <br  style={{display: props.display}}/> <br  style={{display: props.display}}/>
+                {props.p20} <br  style={{display: props.display}}/> <br  style={{display: props.display}}/>
+                {props.p21} <br  style={{display: props.display}}/> <br  style={{display: props.display}}/>
+                {props.p22} <br  style={{display: props.display}}/> <br  style={{display: props.display}}/>
+                {props.p23} <br  style={{display: props.display}}/> <br  style={{display: props.display}}/>
+                {props.p24} <br  style={{display: props.display}}/> <br  style={{display: props.display}}/>
+                {props.p25} <br  style={{display: props.display}}/> <br  style={{display: props.display}}/>
+                {props.p26} <br  style={{display: props.display}}/> <br  style={{display: props.display}}/>
+                {props.p27} <br  style={{display: props.display}}/> <br  style={{display: props.display}}/>
+                {props.p28} <br  style={{display: props.display}}/> <br  style={{display: props.display}}/>
+                {props.p29} <br  style={{display: props.display}}/> <br  style={{display: props.display}}/>
+                {props.p30} <br  style={{display: props.display}}/> <br  style={{display: props.display}}/>
             </p>
         </div>
     )
